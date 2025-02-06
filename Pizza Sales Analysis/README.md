@@ -1,3 +1,5 @@
+# Pizza Sales Analysis
+
 This SQL project focuses on creating structured views to streamline data extraction and analysis for an order management system, making it easier to track orders, inventory, ingredient usage, and staff costs. The project integrates data from 10 different related tables including Orders, Items, Customers, Address, Recipe, Ingredients, Inventory, and Staff, utilizing SQL JOINs and VIEWS to generate meaningful insights. 
 
 Key views include:
@@ -9,7 +11,7 @@ Key views include:
 
 The project also transformed and filtered data using aggregation and filtering functions to improve the reporting process. Finally, the data was loaded and visualized in Power BI, identifying key business insights that can drive sales performance.
 
-Dashboards
+### Dashboards
 
 **1- Overview Analysis**
 
