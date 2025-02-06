@@ -4,10 +4,10 @@ This SQL project focuses on creating structured views to streamline data extract
 
 Key views include:
 
-- query_overview1, which consolidates order details with customer and item information
-- stock1, which calculates ingredient consumption and costs based on recipes and orders
-- query_inventory1, which tracks inventory levels by comparing available stock with ordered quantities
-- query_staff1, which calculates staff working hours and labor costs based on shifts.
+- query_overview1- consolidates order details with customer and item information
+- stock1- calculates ingredient consumption and costs based on recipes and orders
+- query_inventory- tracks inventory levels by comparing available stock with ordered quantities
+- query_staff1- calculates staff working hours and labor costs based on shifts.
 
 The project also transformed and filtered data using aggregation and filtering functions to improve the reporting process. Finally, the data was loaded and visualized in Power BI, identifying key business insights that can drive sales performance.
 
