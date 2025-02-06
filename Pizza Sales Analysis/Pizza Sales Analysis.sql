@@ -2,7 +2,8 @@
 -- The following views are created to simplify data extraction for Power BI.
 -- These views allow for efficient data import, making dashboard design easier and faster.
 
--- Create View: query_overview1  
+-- Create View: query_overview1
+-- consolidates order details with customer and item information
 Create View query_overview1 as
 select
 a.delivery_address1,
@@ -31,6 +32,7 @@ from query_overview1
 
 
 -- Create View: stock1  
+-- calculates ingredient consumption and costs based on recipes and orders
 Create View stock1 as
 select
 sub1.item_name,
@@ -71,6 +73,7 @@ from stock1
 
 
 -- Create View: query_inventory1  
+-- tracks inventory levels by comparing available stock with ordered quantities
 Create View query_inventory1 as
 select 
 sub2.ing_name,
@@ -96,6 +99,7 @@ from query_inventory1
 
 
 -- Create View: query_staff1  
+-- calculates staff working hours and labor costs based on shifts
 Create View query_staff1 as
 select
 rota.date,
