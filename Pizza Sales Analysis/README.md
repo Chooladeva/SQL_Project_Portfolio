@@ -11,25 +11,4 @@ Key views include:
 
 The project also transformed and filtered data using aggregation and filtering functions to improve the reporting process. Finally, the data was loaded and visualized in Power BI, identifying key business insights that can drive sales performance.
 
-### Dashboards
-
-**1- Overview Analysis**
-
-![1](https://github.com/user-attachments/assets/e2b27d0c-427e-44d7-a753-ecd33f9fc98a)
-
-**2- Customer Analysis**
-
-![2](https://github.com/user-attachments/assets/66c66daf-edd8-4166-8008-0c7d0e051433)
-
-
-**3- Inventory Analysis**
-
-![3](https://github.com/user-attachments/assets/8cca14ea-708b-4e15-8f76-9088d82c3007)
-
-
-**4- Staff Analysis**
-
-![4](https://github.com/user-attachments/assets/41c47961-59f7-419e-805e-50f9bb3eba80)
-
-
-[PowerBI Dashobaord Link](https://app.powerbi.com/view?r=eyJrIjoiNDYyMjQwYWMtZTAzYi00YWI4LThjODktNzI4NTIxMGJhZjcxIiwidCI6ImE2ZWMwZjFjLTJhMzQtNDFhOS1hZDExLTIyNzVhNDg4ODQ5NyIsImMiOjEwfQ%3D%3D)
+[PowerBI Dashobaord Link](https://app.powerbi.com/view?r=eyJrIjoiZTViZGExMTctN2I3MC00Yzg1LTg1MDQtOWFhOGJkMTRmZTU1IiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9)
