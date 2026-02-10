@@ -1,4 +1,4 @@
-# Pizza Sales Data Warehouse
+# Pizza Sales Analysis
 
 This repository contains SQL scripts and ETL workflows to create a **Pizza Sales Data Warehouse**, managing sales, inventory, ingredients, staff, and orders. It also includes analytical views for reporting and business insights.
 
