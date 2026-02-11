@@ -6,7 +6,7 @@ This project demonstrates intermediate-level SQL skills using a real-world e-com
 ---
 
 ## Dataset Source
-The dataset is derived from a publicly available e-commerce dataset (Brazilian marketplace style), containing:
+The dataset is derived from Kaggle, containing:
 
 - Customers  
 - Orders  
@@ -102,12 +102,5 @@ The project includes **portfolio-ready queries** covering:
 3. Use the queries to generate business insights and visualizations.  
 
 ---
-
-## Skills Demonstrated
-- Data cleaning and preprocessing using **Python**  
-- ETL using **SSIS in Visual Studio**  
-- Database modeling and relationships  
-- Intermediate SQL: JOINs, GROUP BY, HAVING, CASE, CTEs, Window functions, Views  
-- Business-focused analytics and reporting  
 
 ---
