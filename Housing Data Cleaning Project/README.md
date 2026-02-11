@@ -71,15 +71,6 @@ The data was cleaned and transformed using a combination of **Python for preproc
 
 ---
 
-## Key SQL Skills Demonstrated
-- **Window Functions:** `ROW_NUMBER()` to detect duplicates.  
-- **Conditional Updates:** `CASE` statements for standardizing categorical data.  
-- **String Parsing:** `SUBSTRING()`, `CHARINDEX()`, `PARSENAME()`, `REPLACE()` to split addresses.  
-- **Data Type Conversion:** `CONVERT()` for date standardization.   
-- **Column Transformations & Aggregation:** creating new calculated or cleaned columns.  
-
----
-
 ## ETL Workflow
 1. **ETL using Microsoft SSIS in Visual Studio**  
    - Loaded cleaned data into SQL Server.  
