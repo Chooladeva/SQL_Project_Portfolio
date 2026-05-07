@@ -63,4 +63,4 @@ The SQL file also creates views for reporting and analysis:
 
 ---
 
-[PowerBI Dashobaord Link](https://app.powerbi.com/view?r=eyJrIjoiZTViZGExMTctN2I3MC00Yzg1LTg1MDQtOWFhOGJkMTRmZTU1IiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9)
+[PowerBI Dashobaord Link](https://app.powerbi.com/view?r=eyJrIjoiNmEzYTdiYWEtZDZhYS00YTI0LThmYjgtODI1NDE0ZWUxOWRmIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9)
